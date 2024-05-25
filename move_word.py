@@ -1,0 +1,1 @@
+# uno dar vuelta una palabra y colocarla en otro lado de la oración
